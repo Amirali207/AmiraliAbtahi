@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Amirali207
+- 👋 Hi, I’m Amirali
 - 👀 I’m interested in sports and coding...!
 - 🌱 I’m currently learning c++ and python...!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ->Telegram : @Awmiraliii
 
 <!---
 Amirali207/Amirali207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
